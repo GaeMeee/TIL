@@ -10,4 +10,4 @@
 
 - [2023-07-17](https://github.com/GaeMeee/TIL/blob/main/내일배움캠프/2023-07-17.md)
 
-• [2023-07-18](https://github.com/GaeMeee/TIL/blob/main/내일배움캠프/2023-07-18.md)
+- [2023-07-18](https://github.com/GaeMeee/TIL/blob/main/내일배움캠프/2023-07-18.md)
